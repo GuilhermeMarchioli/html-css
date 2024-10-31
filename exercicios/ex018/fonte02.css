@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+@font-face {
+ font-family: 'Cowboys';
+src: url('fonts/Bleeding_Cowboys.ttf') format('truetype'), url('fonts/Bleeding_Cowboys.otf') format('opentype');
+font-weight: normal;
+font-style: normal;
+}
+
+@font-face {
+    font-family: 'Celta';
+    src: url('fonts/CELTG___.TTF') format('truetype'), url('fonts/CELTG___.OTF') format('opentype');
+font-weight: normal;
+font-style: normal;
+}
+
+body {
+font-family: 'Celta', Times, serif;
+color: coral;
+background-color: cadetblue;
+}
+
+h1 {
+    font-family: 'Cowboys', Times, serif;
+    font-size: 3em;
+    font-weight: normal;
+    color: chartreuse;
+}

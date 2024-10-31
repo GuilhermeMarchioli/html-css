@@ -1,0 +1,16 @@
+@charset "UTF-8";
+body{
+    background-color: rgb(247, 247, 196);
+}
+h1 {
+font-family: Arial, Helvetica, sans-serif;
+color: goldenrod;
+}
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    color: goldenrod;
+}
+li {
+    font-family: Arial, Helvetica, sans-serif;
+    color: goldenrod;
+}

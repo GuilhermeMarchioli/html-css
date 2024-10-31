@@ -1,0 +1,46 @@
+@charset "UTF-8";
+
+div {
+    display: inline-block;
+    text-align: center;
+    align-items: center;
+    background-color: aqua;
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+}
+
+#d1 {
+    display: inline-block;
+    text-align: center;
+    align-items: center;
+    background-color: aqua;
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+}
+
+#d2 {
+    display: inline-block;
+    text-align: center;
+    align-items: center;
+    background-color: rgb(183, 0, 255);
+    height: 100px;
+    width: 200px;
+    border: 1px solid black;
+}
+
+#d3 {
+    display: inline-block;
+    text-align: center;
+    align-items: center;
+    background-color: rgb(40, 29, 196);
+    height: 200px;
+    width: 505px;
+    border: 1px solid rgb(109, 255, 157);
+    color: green;
+}
+
+#d1:hover {
+    background-color: blueviolet;
+}

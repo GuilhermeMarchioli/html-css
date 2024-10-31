@@ -1,0 +1,14 @@
+@charset "Utf-8";
+body{
+    background-color: gainsboro;
+}
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+li {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
